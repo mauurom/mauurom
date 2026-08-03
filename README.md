@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * 👦 `My name is`: **Mauro**
-* ⚡ `I'm`: **22 years old**
+* ⚡ `I'm`: **23 years old**
 * 🌱 `I’m currently learning`: **TypeScript**
 * ❤️ `I love`: **Videogames**  
 
