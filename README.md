@@ -2,7 +2,7 @@
 
 * 👦 `My name is`: **Mauro**
 * ⚡ `I'm`: **23 years old**
-* 🌱 `I’m currently learning`: **TypeScript**
+* 🌱 `I’m currently learning`: **React**
 * ❤️ `I love`: **Videogames**  
 
 ## 💻 Tech Stack
