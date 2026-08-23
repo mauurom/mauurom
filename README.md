@@ -1,22 +1,40 @@
-# Hi there 👋
+# ~/mauurom
 
-* 👦 `My name is`: **Mauro**
-* ⚡ `I'm`: **23 years old**
-* 🌱 `I’m currently learning`: **React**
-* ❤️ `I love`: **Videogames**  
+```txt
+┌──────────────────────────────────────────────────────────┐
+│  mauurom                              status: building   │
+│                                                          │
+│  Software Engineering student · Mendoza, Argentina       │
+│  Currently into: full-stack web development              │
+└──────────────────────────────────────────────────────────┘
+```
 
-## 💻 Tech Stack
+I enjoy turning ideas into actual projects and figuring things out along the way — from how they work under the hood to how they feel to use.
+
+Currently studying **Software Engineering** and working mostly with **React, TypeScript, Node.js and PostgreSQL**.
+
+## `> currently`
+
+* 🛠️ Building and experimenting with full-stack projects
+* 🧠 Getting deeper into software architecture and product development
+* 🎮 Probably playing something when I'm not coding
+
+## `> toolkit`
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square\&logo=typescript\&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-171717?style=flat-square\&logo=python\&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-171717?style=flat-square\&logo=openjdk\&logoColor=ED8B00) ![C++](https://img.shields.io/badge/C%2B%2B-171717?style=flat-square\&logo=c%2B%2B\&logoColor=00599C)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square\&logo=html5\&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square\&logo=css3\&logoColor=1572B6) ![React](https://img.shields.io/badge/React-171717?style=flat-square\&logo=react\&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square\&logo=vite\&logoColor=646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-171717?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
 
-### Architecture & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Backend, data & tools
+
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square\&logo=nodedotjs\&logoColor=5FA04E) ![Supabase](https://img.shields.io/badge/Supabase-171717?style=flat-square\&logo=supabase\&logoColor=3FCF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square\&logo=postgresql\&logoColor=4169E1) ![Git](https://img.shields.io/badge/Git-171717?style=flat-square\&logo=git\&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square\&logo=docker\&logoColor=2496ED) ![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square\&logo=linux\&logoColor=FCC624)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=mauurom&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <sub>still figuring things out · still building</sub>
+</p>
