@@ -4,8 +4,8 @@
 ┌──────────────────────────────────────────────────────────┐
 │  mauurom                              status: building   │
 │                                                          │
-│  Software Engineering student · Mendoza, Argentina       │
-│  Currently into: full-stack web development              │
+│  software engineering student · mendoza, argentina       │
+│  currently building: full-stack web projects             │
 └──────────────────────────────────────────────────────────┘
 ```
 
