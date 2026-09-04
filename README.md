@@ -15,9 +15,9 @@ Currently studying **Software Engineering** and working mostly with **React, Typ
 
 ## `> currently`
 
-* 🛠️ Building and experimenting with full-stack projects
-* 🧠 Getting deeper into software architecture and product development
-* 🎮 Probably playing something when I'm not coding
+* 🛠️ Building and experimenting with full-stack projects.
+* 🧠 Getting deeper into software architecture and product development.
+* 🎮 Probably playing something when I'm not coding.
 
 ## `> toolkit`
 
